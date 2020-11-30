@@ -5,6 +5,7 @@
 
 int main()
 {
+    //Inclusão de Texto
     std::cout << "Hello World!\n";
 }
 
