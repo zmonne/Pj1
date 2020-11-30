@@ -7,6 +7,7 @@ int main()
 {
     //Inclusão de Texto
     //Verificação de comendo de menu de compare do Github no VS19.
+    //Modificação 3
     std::cout << "Hello World!\n";
 }
 
